@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=model
+comment1.target=Car(java.lang.String)
+comment10.params=
+comment10.target=void\ stopEngine()
+comment11.params=num\ distance
+comment11.target=void\ takeTrips(int,\ int)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=double\ checkOdometer()
+comment3.params=
+comment3.target=double\ checkGasGauge()
+comment4.params=
+comment4.target=void\ honkHorn()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=g
+comment6.target=void\ addGas(double)
+comment7.params=miles
+comment7.target=void\ drive(double)
+comment8.params=
+comment8.target=boolean\ engineOn()
+comment9.params=
+comment9.target=void\ startEngine()
+numComments=13
