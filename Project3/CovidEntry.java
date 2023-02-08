@@ -1,5 +1,5 @@
 import java.text.DecimalFormat;
-public class CovidEntry {
+public class CovidEntry implements Comparable{
     private String state;
     private int month;
     private int day;
